@@ -9,7 +9,7 @@ an area I find genuinely exciting.
 
 ### 📫 Connect with me
 - **LinkedIn:** [michelecarena](https://www.linkedin.com/in/michelecarena/)
-- **Email:** [carena.michele4@gmail.com](mailto:carena.michele4@gmail.com)
+- **Email:** [carenamichele4@gmail.com](mailto:carenamichele4@gmail.com)
 
 <!--
 **CareMichele/CareMichele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
